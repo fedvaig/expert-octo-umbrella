@@ -22,3 +22,16 @@
 # virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
 hs_err_pid*
 /CUPJSF/nbproject/private/
+/CUPJSF/build/
+/CUPJSF/dist/
+/CUPJSF/CUP JSF/nbproject/private/
+/CUPJSF/CUP JSF/build/
+/CUP_JSF/nbproject/private/
+/CUP_JSF/build/
+/WebApplication1/nbproject/private/
+/WebApplication1/build/
+/CUP_JSF/dist/
+/WebApplication1/dist/
+/WebApplication2/nbproject/private/
+/WebApplication2/build/
+/WebApplication2/dist/
